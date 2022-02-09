@@ -1,0 +1,1 @@
+{"token_type":"Bearer","scope":"profile openid email https://graph.microsoft.com/AllSites.Write https://graph.microsoft.com/MyFiles.Write https://graph.microsoft.com/User.Read","expires_in":5149,"ext_expires_in":5149,"access_token":"TOKEN_VALUE"}
